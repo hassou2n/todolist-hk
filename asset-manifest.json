@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/todolistby-hk/static/css/main.7d080ead.css",
+    "main.js": "/todolistby-hk/static/js/main.81b97e15.js",
+    "static/js/787.6216aaa5.chunk.js": "/todolistby-hk/static/js/787.6216aaa5.chunk.js",
+    "index.html": "/todolistby-hk/index.html",
+    "main.7d080ead.css.map": "/todolistby-hk/static/css/main.7d080ead.css.map",
+    "main.81b97e15.js.map": "/todolistby-hk/static/js/main.81b97e15.js.map",
+    "787.6216aaa5.chunk.js.map": "/todolistby-hk/static/js/787.6216aaa5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7d080ead.css",
+    "static/js/main.81b97e15.js"
+  ]
+}
