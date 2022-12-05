@@ -2,7 +2,7 @@
   "name": "todolistby-hk",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://hassou2n.github.io/todolist-hk",
+  "homepage": "https://hassou2n.github.io/todolistby-hk",
   "dependencies": {
     "@fortawesome/fontawesome": "^1.1.8",
     "@fortawesome/fontawesome-free-solid": "^5.0.13",
