@@ -1,0 +1,26 @@
+.Todo {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+
+.TodoContainer {
+  padding: 5px;
+  width: 300px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: rgb(107 107 255);
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+  color: rgb(255, 255, 255);
+}
+
+.edit {
+  padding: 5px;
+}
+
+.delete {
+  padding: 5px;
+}

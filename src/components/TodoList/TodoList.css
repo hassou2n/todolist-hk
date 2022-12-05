@@ -1,0 +1,42 @@
+.container {
+  width: auto;
+  text-align: center;
+}
+
+.container input {
+  width: 300px;
+  padding: 12px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+  text-align: center;
+}
+
+.container button {
+  width: 100px;
+  padding: 12px;
+  margin: 5px;
+  background-color: rgb(107 107 255);
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+  color: rgb(255, 255, 255);
+}
+
+@media screen and (max-width: 450px) {
+  .container h1{
+    font-size: 1.5em;
+  }
+  .container input {
+    width: 130px;
+    padding: 8px;
+    text-align: center;
+  }
+
+  .container button {
+    width: 60px;
+    padding: 8px;
+    text-align: center;
+    margin: 5px;
+  }
+}
